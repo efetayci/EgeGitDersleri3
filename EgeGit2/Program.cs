@@ -9,6 +9,7 @@ namespace EgeGit2
             Console.WriteLine("Ege github ve git kullanıyor");
             Console.WriteLine("Second Commit");
             Console.WriteLine("Third Commit");
+            Console.WriteLine("Clone Geldi");
         }
     }
 }

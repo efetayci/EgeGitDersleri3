@@ -7,6 +7,7 @@ namespace EgeGit2
         static void Main(string[] args)
         {
             Console.WriteLine("Ege github ve git kullanıyor");
+            Console.WriteLine("Second Commit");
         }
     }
 }
